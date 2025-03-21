@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priya Das
 - 👀 I’m interested in reading books
-- 🌱 I’m currently learning JavaScript,Python
+- 🌱 I’m currently Python
 -   Ask me about HTML,CSS
 - 📫 How to reach me priya79677@gmail.com
 
